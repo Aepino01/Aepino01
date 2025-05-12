@@ -1,10 +1,9 @@
 # Mi sitio personal
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis proyectos y mis intereses.
+Este es mi sitio. Aquí encontraras información acerca de mí, los proyectos que he realizado y mis areas de interes.
 
 ## Contenido
 * Andres Eduardo Pino Gonzalez
-* [Proyectos]
-* [Inteligencia Artficial / Ciencia de Datos](#intereses)
+* [ Inteligencia Artficial / Ciencia de Datos ]
 
 ## Información personal
 * Nombre: [Andres Pino]
